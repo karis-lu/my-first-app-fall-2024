@@ -7,3 +7,5 @@ requests
 pandas
 
 plotly
+
+pytest
